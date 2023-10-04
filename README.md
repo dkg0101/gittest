@@ -21,4 +21,8 @@ git merge <branchname>
 git checkout <branchname>
 ```
 
+####  To see logs 
+```
+git log
+```
 
